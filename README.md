@@ -3,14 +3,6 @@
 </p>
 <h1 align="center">Byte Pair Encoding</h1>
 
-<p align="center">
-  
-</p>
-
-<h4 align="center">
-  <a href="https://github.com/WillKirkmanM/music/releases">Releases</a>
-</h4>
-
 <p align="center">The Large Language Model Tokenizer Algorithm</p>
 
 
